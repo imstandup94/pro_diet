@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pro_diet/static/css/main.67431ae4.css",
+    "main.js": "/pro_diet/static/js/main.7d94e64c.js",
+    "static/media/NotoSansKR-Black.otf": "/pro_diet/static/media/NotoSansKR-Black.65bf9d1c7fe0c74765b7.otf",
+    "static/media/NotoSansKR-Bold.otf": "/pro_diet/static/media/NotoSansKR-Bold.d70da461aee08ea5e329.otf",
+    "static/media/NotoSansKR-Thin.otf": "/pro_diet/static/media/NotoSansKR-Thin.446a14928eb159cdd339.otf",
+    "static/media/NotoSansKR-Light.otf": "/pro_diet/static/media/NotoSansKR-Light.bf528188583663532a80.otf",
+    "static/media/NotoSansKR-Medium.otf": "/pro_diet/static/media/NotoSansKR-Medium.c452ab96b83fd2ce5ae8.otf",
+    "static/media/NotoSansKR-Regular.otf": "/pro_diet/static/media/NotoSansKR-Regular.6a30564cbf88a461ba2b.otf",
+    "static/media/NotoSansKR-Black.woff": "/pro_diet/static/media/NotoSansKR-Black.19b754611eddc894871d.woff",
+    "static/media/NotoSansKR-Bold.woff": "/pro_diet/static/media/NotoSansKR-Bold.cdc21ec1a4fa0f11ecf0.woff",
+    "static/media/NotoSansKR-Medium.woff": "/pro_diet/static/media/NotoSansKR-Medium.9d8f91304460b340a09a.woff",
+    "static/media/NotoSansKR-Regular.woff": "/pro_diet/static/media/NotoSansKR-Regular.ecf7c76ba0b6bb45527f.woff",
+    "static/media/NotoSansKR-Light.woff": "/pro_diet/static/media/NotoSansKR-Light.03d91ea36a624e316afc.woff",
+    "static/media/NotoSansKR-Thin.woff": "/pro_diet/static/media/NotoSansKR-Thin.e4804399aea84f5e6083.woff",
+    "static/media/NotoSansKR-Bold.woff2": "/pro_diet/static/media/NotoSansKR-Bold.8b8bc0e928b48f3a927a.woff2",
+    "static/media/NotoSansKR-Black.woff2": "/pro_diet/static/media/NotoSansKR-Black.25a7c746bc19a15a8380.woff2",
+    "static/media/NotoSansKR-Medium.woff2": "/pro_diet/static/media/NotoSansKR-Medium.3c49ca4f9c1a1b5a7dc0.woff2",
+    "static/media/NotoSansKR-Regular.woff2": "/pro_diet/static/media/NotoSansKR-Regular.b1db0fdc3a40f3da4051.woff2",
+    "static/media/NotoSansKR-Light.woff2": "/pro_diet/static/media/NotoSansKR-Light.f2dd937d741e7929dd3e.woff2",
+    "static/media/NotoSansKR-Thin.woff2": "/pro_diet/static/media/NotoSansKR-Thin.03e27898700e24547011.woff2",
+    "index.html": "/pro_diet/index.html",
+    "main.67431ae4.css.map": "/pro_diet/static/css/main.67431ae4.css.map",
+    "main.7d94e64c.js.map": "/pro_diet/static/js/main.7d94e64c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67431ae4.css",
+    "static/js/main.7d94e64c.js"
+  ]
+}
