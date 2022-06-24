@@ -1,0 +1,5 @@
+.waterContainer {position: relative;}
+.waterBtnContaeinr button {border-radius: 50rem; padding: 0;}
+.waterBtnContaeinr button:last-child {margin-left: 1.4rem; margin-right: 3.4rem;}
+.waterContainer .water {position: absolute; left: 0; bottom: 0;}
+.waterContainer .text {position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font-size: var(--fs-22); color: var(--white);}

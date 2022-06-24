@@ -1,0 +1,6 @@
+.nav {width: var(--nav-width); min-width: var(--nav-width); padding: 4rem 2.2rem 0 2.2rem;}
+.nav ul {display: flex; flex-direction: column;}
+.menu {height: 7rem; padding: .9rem 0; font-size: var(--fs-18); cursor: pointer;}
+.menu div {height: 100%; display: flex; align-items: center; padding: 0 .8rem; border-radius: 1rem; color: var(--gray-600);}
+.menu.active div {background-color: var(--pink-400); color: var(--gray-50);}
+.menu div svg {margin-right: 1.4rem;}
